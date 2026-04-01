@@ -10,7 +10,7 @@
   "author": "Martin Sterlicchi",
   "license": "ISC",
   "dependencies": {
-    "canvas": "^2.8.0",
+    "canvas": "^3.2.1",
     "js-sha256": "^0.9.0",
     "merge-images": "^2.0.0",
     "sha256": "^0.2.0",
